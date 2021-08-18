@@ -11,4 +11,5 @@ NewStar팀은 두명이 서로 다른 모델을 사용하였기 때문에 코드
 bash run.sh
 ```
 
-파일 용량이 큰 관계로 코드와 중분류를 위한 자료만 첨부합니다. train.csv, test.csv를 data_s와 data_j/original/에 넣으면 됩니다.
+파일 용량이 큰 관계로 코드와 중분류를 위한 자료만 첨부합니다. 
+다음 ![링크](https://drive.google.com/drive/folders/1DXJkhQr3Eybut7XrBgjBt-GM3apNoWHM)에서 train.csv, test.csv를 data_s와 data_j/original/에 넣으면 됩니다.
