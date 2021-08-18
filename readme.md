@@ -19,7 +19,7 @@ bash run.sh
 
 ### System Requirements
 python=3.8  
-tokenizers=0.10.3 
+tokenizers=0.10.3     
 torch=1.9.0  
 transformers=4.8.1  
 pandas=1.2.5  
