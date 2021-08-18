@@ -1,5 +1,11 @@
 # 데이콘 자연어 기반 기후기술분류 AI 경진대회 4등 코드 
 
+### System Requirements
+python=3.8
+tokenizers=0.10.3
+torch=1.9.0
+transformers=4.8.1
+pandas=1.2.5
 
 
 NewStar팀은 두명이 서로 다른 모델을 사용하였기 때문에 코드의 파이프라인은 크게 2가지로 나누었습니다.  
